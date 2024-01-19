@@ -1,0 +1,22 @@
+{
+  "_copy_without_render": [
+    "*.rst_t"
+  ],
+  "_jinja2_env_vars": {
+    "lstrip_blocks": true,
+    "trim_blocks": true
+  },
+  "_template": "https://github.com/statisticsnorway/ssb-pypitemplate.git",
+  "author": "Benedikt Goodman",
+  "code_quality_level": "Medium",
+  "copyright_owner": "Statistics Norway",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "bgo@ssb.no",
+  "friendly_name": "SSB Libtest43",
+  "github_organization": "statisticsnorway",
+  "license": "MIT",
+  "package_name": "ssb_libtest43",
+  "project_name": "ssb-libtest43",
+  "version": "0.0.0"
+}
